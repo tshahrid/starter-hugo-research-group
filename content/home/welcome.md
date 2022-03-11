@@ -3,7 +3,7 @@ widget: hero
 widget_id: Intro Post
 headless: true
 weight: 10
-title: Singanayagam  Research Group
+title: Singanayagam Research Group
 hero_media: welcome.jpg
 design:
   columns: "1"
